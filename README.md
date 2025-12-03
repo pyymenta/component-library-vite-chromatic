@@ -42,14 +42,14 @@ Após o build, a biblioteca gera:
 ### Instalando em outro projeto
 
 ```bash
-npm install @pimenta/component-library
+npm install @pyymenta/component-library
 ```
 
 ### Importando componentes
 
 ```tsx
-import { Button, Card } from '@pimenta/component-library';
-import '@pimenta/component-library/styles';
+import { Button, Card } from '@pyymenta/component-library';
+import '@pyymenta/component-library/styles';
 
 function App() {
   return (

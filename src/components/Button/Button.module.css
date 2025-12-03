@@ -33,7 +33,7 @@
 }
 
 .primary:hover:not(:disabled) {
-  background-color: #2563eb;
+  background-color: #2563ed;
 }
 
 .secondary {

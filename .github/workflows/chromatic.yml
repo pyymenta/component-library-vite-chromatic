@@ -1,6 +1,6 @@
 name: "Chromatic"
 
-on: workflow_dispatch
+on: push
 
 jobs:
   chromatic:
